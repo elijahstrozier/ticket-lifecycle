@@ -60,6 +60,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/ea994448-08dd-447c-a639-ab385c474663)
 
+![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/1c14f7fd-0575-43bc-ad7b-d94114f14988)
+
+![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/5a88be44-9371-4004-924f-cfd6c888dcfe)
+
+![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/442f2473-8631-4dc9-9cc1-960da264cf88)
+
+
+
+
 
 
 
