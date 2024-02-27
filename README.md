@@ -27,6 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+INTAKE
 
 ![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/243242b1-afae-4a1e-bd7c-814f197cb4ce)
 
