@@ -50,7 +50,10 @@ INTAKE
 
 ![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/2c6e9f08-47ae-44e1-962a-9886c43df65a)
 
+ASSIGNMENT AND COMMUNICATION
+
 ![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/a199e638-05e8-4510-8d7f-a4d5d57263e7)
+
 
 ![image](https://github.com/elijahstrozier/ticket-lifecycle/assets/161254320/ca01fe8f-979f-42b2-ba90-f251a4d1d841)
 
